@@ -1,0 +1,15 @@
+.dark {
+  transition: 0.5s;
+  background-color: black;
+  .header {
+    color: #ffffff;
+  }
+}
+
+.light {
+  transition: 0.5s;
+  background-color: #ffffff;
+  .header {
+    color: black;
+  }
+}
